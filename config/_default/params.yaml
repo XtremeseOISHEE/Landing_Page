@@ -11,10 +11,10 @@ appearance:
 # SEO
 marketing:
   seo:
-    site_type: Person
+    site_type: organization
     local_business_type: ''
-    org_name: ''
-    description: 'A highly-customizable Hugo landing page theme powered by Hugo Blox website builder.'
+    org_name: 'Mav Chase'
+    description: 'Mav Chase transforms your ideas.'
     twitter: 'GetResearchDev'
   analytics:
     google_analytics: ''
@@ -47,7 +47,7 @@ header:
 # Site footer
 footer:
   copyright:
-    notice: '© {year} My Company'
+    notice: '© {2024} Mav Chase'
 
 # Localization
 locale:

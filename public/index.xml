@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Home | Creator&#39;s Landing Page | Hugo Theme</title>
+    <title>Home | Mav Chase | Hugo Theme</title>
     <link>http://localhost:1313/</link>
       <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <description>Home</description>
@@ -11,24 +11,6 @@
       <title>Home</title>
       <link>http://localhost:1313/</link>
     </image>
-    
-    <item>
-      <title>Privacy</title>
-      <link>http://localhost:1313/privacy/</link>
-      <pubDate>Fri, 01 Dec 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/privacy/</guid>
-      <description>&lt;p&gt;Add your company privacy policy here&amp;hellip;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Terms of Service</title>
-      <link>http://localhost:1313/terms/</link>
-      <pubDate>Fri, 01 Dec 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/terms/</guid>
-      <description>&lt;p&gt;Add your company legal terms here&amp;hellip;&lt;/p&gt;
-</description>
-    </item>
     
     <item>
       <title>🎉 Easily create your own simple yet highly customizable blog</title>
@@ -243,7 +225,7 @@
 
 
 
-&lt;div id=&#34;chart-314789256&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-842567319&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   async function fetchChartJSON() {
     console.debug(&#39;Hugo Blox fetching chart JSON...&#39;)
@@ -261,7 +243,7 @@
 
       fetchChartJSON().then(chart =&gt; {
         console.debug(&#39;Plotting chart...&#39;)
-        window.Plotly.newPlot(&#39;chart-314789256&#39;, chart.data, chart.layout, {responsive: true});
+        window.Plotly.newPlot(&#39;chart-842567319&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
@@ -636,6 +618,118 @@ Parallel 4   :         des6, after des4, 1d
 &lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; Do something else&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id=&#34;did-you-find-this-page-helpful-consider-sharing-it-&#34;&gt;Did you find this page helpful? Consider sharing it 🙌&lt;/h2&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Privacy</title>
+      <link>http://localhost:1313/privacy/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/privacy/</guid>
+      <description>&lt;p&gt;At [Mav Chase], your privacy is of utmost importance to us. This policy outlines how we collect, use, and protect your information when you visit our website.&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Information We Collect:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;We may collect the following types of information:
+&lt;ul&gt;
+&lt;li&gt;Personal information provided by you, such as your name and email address when submitting forms.&lt;/li&gt;
+&lt;li&gt;Non-personal data, such as your IP address and browsing behavior, to improve website functionality.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;How We Use Your Information:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Your information is used for:
+&lt;ul&gt;
+&lt;li&gt;Providing and improving our services.&lt;/li&gt;
+&lt;li&gt;Responding to your inquiries.&lt;/li&gt;
+&lt;li&gt;Ensuring compliance with legal obligations.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Information Sharing:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;We do not sell or share your personal information with third parties unless required by law or to protect our rights.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Data Security:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;We implement industry-standard measures to safeguard your data from unauthorized access or breaches.&lt;/li&gt;
+&lt;li&gt;However, no method of transmission over the internet is 100% secure.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Your Rights:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;You have the right to:
+&lt;ul&gt;
+&lt;li&gt;Request access to the information we hold about you.&lt;/li&gt;
+&lt;li&gt;Request corrections to inaccurate data.&lt;/li&gt;
+&lt;li&gt;Request deletion of your personal data, subject to legal obligations.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Updates to This Policy:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;This privacy policy may be updated periodically. Please review this page for the latest information.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;For questions or concerns about this policy, contact us at [email address].&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Terms of Service</title>
+      <link>http://localhost:1313/terms/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/terms/</guid>
+      <description>&lt;p&gt;These Terms and Conditions govern your use of the [Mav Chase] website. By accessing or using this site, you agree to comply with these terms.&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Use of Website:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;The content provided on this website is for informational purposes only.&lt;/li&gt;
+&lt;li&gt;You agree not to misuse this site or interfere with its functionality.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Intellectual Property:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;All text, images, logos, and other content on this site are the property of [Mav Chase].&lt;/li&gt;
+&lt;li&gt;You may not reproduce, distribute, or use any content without prior written permission.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Limitation of Liability:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;[Mav Chase] is not responsible for any direct or indirect damages arising from your use of this site.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Modifications:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;We reserve the right to update or modify these terms at any time without prior notice.&lt;/li&gt;
+&lt;li&gt;Continued use of the site implies acceptance of the updated terms.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Governing Law:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;These terms are governed by the laws of [Your Jurisdiction].&lt;/li&gt;
+&lt;li&gt;Any disputes will be resolved in the applicable courts.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;By using this website, you agree to these Terms and Conditions. If you have any questions, contact us at [email address].&lt;/p&gt;
 </description>
     </item>
     
