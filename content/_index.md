@@ -11,7 +11,7 @@ sections:
   - block: hero
     content:
       title: Crafting Excellence Through Customized Solutions
-      text:  EASY. FREE (OPEN SOURCE). NO-CODE  
+      # text:  EASY. FREE (OPEN SOURCE). NO-CODE  
       primary_action:
         text: Get Started
         url: /get-started/
