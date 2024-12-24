@@ -2,8 +2,32 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/terms/</loc>
-    <lastmod>2023-12-01T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/branding/</loc>
+    <lastmod>2024-12-23T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1313/notion/</loc>
+    <lastmod>2024-12-23T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1313/custom/</loc>
+    <lastmod>2024-12-23T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1313/digital/</loc>
+    <lastmod>2024-12-23T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1313/social/</loc>
+    <lastmod>2024-12-23T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1313/video/</loc>
+    <lastmod>2024-12-23T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1313/web/</loc>
+    <lastmod>2024-12-23T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>http://localhost:1313/blog/get-started/</loc>
@@ -66,6 +90,9 @@
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>http://localhost:1313/privacy/</loc>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1313/terms/</loc>
     <changefreq>weekly</changefreq>
   </url>
 </urlset>

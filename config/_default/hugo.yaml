@@ -37,6 +37,13 @@ cascade:
     show_related: false
 
   - _target:
+      path: /Digital
+      kind: page
+    hide_date: true
+    reading_time: false
+    show_related: false
+    
+  - _target:
       path: /terms
       kind: page
     hide_date: true

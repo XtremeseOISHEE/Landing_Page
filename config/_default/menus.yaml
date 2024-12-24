@@ -6,15 +6,15 @@ main:
   - name: Home
     url: /#top
     weight: 10
-  - name: Features
+  - name: Services
     url: /#features
     weight: 20
-  - name: Solutions
+  - name: About Us
     url: /#solutions
     weight: 30
   - name: Resources
     weight: 40
     hasChildren: true
   - parent: Resources
-    name: Blog
-    url: blog/
+    name: Portfolio
+    url: portfolio/
