@@ -14,7 +14,7 @@ sections:
       text:  EASY. FREE (OPEN SOURCE). NO-CODE  
       primary_action:
         text: Get Started
-        url: https://hugoblox.com/templates/
+        url: /get-started/
         icon: rocket-launch
       # secondary_action:
       #   text: Read the docs
@@ -137,7 +137,7 @@ sections:
           # Upload image to `assets/media/` and reference the filename here
           image: time.jpg
           button:
-            text: Get Started
+            text: We build for you
             url: /web
         - title: Custom-Made Notion tamplate
           text: Streamline your workflow with tailored Notion templates for ultimate productivity.
