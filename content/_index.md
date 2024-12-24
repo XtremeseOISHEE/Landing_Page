@@ -13,7 +13,7 @@ sections:
       title: Crafting Excellence Through Customized Solutions
       # text:  EASY. FREE (OPEN SOURCE). NO-CODE  
       primary_action:
-        text: Get Started
+        text: Contact Us
         url: /get-started/
         icon: rocket-launch
       # secondary_action:
